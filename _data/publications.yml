@@ -1,0 +1,37 @@
+---
+-
+    type: preprint
+    title: AffectTracker - real-time continuous rating of affective experience in immersive Virtual Reality.
+    authors: Fourcade, A., Malandrone, F., Roellecke, L., Ciston, A., de Mooij, J., Villringer, A., Carletto*, S. & Gaebler*, M. 
+    year: 2024
+    journal: PsyArXiv
+    pdf_main: AffectTracker_psyarxiv.pdf
+    doi_preprint: 10.31234/osf.io/xemwb 
+    link_github: https://github.com/afourcade/AffectTracker
+    link_bluesky: https://bsky.app/profile/toninfrc.bsky.social/post/3ldgfkibj3s2m
+
+- 
+    type: published
+    title: No cardiac phase bias for threat-related distance perception under naturalistic conditions in immersive virtual reality.
+    authors: Klotzsche*, F., Motyka*, P., Molak, A., Sahula, V., Darmová, B., Byrnes, C., ... & Gaebler, M. 
+    year: 2024
+    journal: Royal Society Open Science
+    pdf_main: doc/Klotzsche2024_VRCC.pdf
+    doi_preprint: 10.1101/2024.01.31.578172v2
+    doi_publisher: 10.1098/rsos.241072
+    osf_prereg: a7n9b
+    link_bluesky: https://bsky.app/profile/pawelmotyka.bsky.social/post/3klhhhjt47j25
+    link_github: https://github.com/eioe/vrcc_analysis
+
+-
+    type: published
+    title: Linking brain-heart interactions to emotional arousal in immersive virtual reality.
+    authors: Fourcade, A., Klotzsche, F., Hofmann, S. M., Mariola, A., Nikulin, V. V., Villringer, A., & Gaebler, M.
+    year: 2024
+    journal: Psychophysiology
+    pdf_main: doc/Fourcade2024_NeVRo2.pdf
+    doi_preprint: 10.1101/2024.01.04.574165
+    doi_publisher: 10.1111/psyp.14696
+    link_bluesky: https://bsky.app/profile/toninfrc.bsky.social/post/3kiozy523mc2h
+    link_github: https://github.com/afourcade/evrbhi
+

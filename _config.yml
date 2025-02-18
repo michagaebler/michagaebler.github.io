@@ -1,0 +1,79 @@
+# Site settings
+title-small: Dr. Michael Gaebler
+title-big: Michael Gaebler
+email: gaebler@cbs.mpg.de
+url: https://github.com/jeromelachaud/freelancer-theme
+description: "Michael Gaebler's personal research website"
+keywords: "Michael Gaebler, Micha Gaebler, neuroscience, cognitive science, emotions, feelings, affective states, stress, brain-heart interactions, brain-body coupling, mind-brain-body interactions, virtual reality, immersive technologies"
+skills: "Cognitive and brain scientist"
+meta_author: Michael Gaebler
+
+# Google webmaster tools
+#google_verify: 
+#google_analytics: G-BLNL5JQW83
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+#bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+#disqus_shortname: myshortname
+formspree_endpoint: maykbwzr
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary:  18bc9c #009951 #308C74 #233140 #80B3FF # orig: 18bc9c
+  primary-rgb: "24,288,156" #"3, 165, 92" #"128,179,255" # orig: "24,288,156"
+  secondary:  2c3e50  #141d26 #FD6E8A # orig: 2c3e50
+  secondary-dark: 233140  #A2122F # orig: 233140
+
+# Header settings
+header:
+  #prof_img: img/profile.jpg
+  #bg_img: img/profile.jpg
+
+# Footer settings
+footer:
+  copyright: Michael Gaebler
+  social: Social
+  location: Location
+  credits: Template
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - symbol: envelope
+    url: mailto:gaebler@cbs.mpg.de
+  - symbol: bluesky
+    url: https://bsky.app/profile/michaelgaebler.com
+  - symbol: graduation-cap
+    url: https://scholar.google.com/citations?user=cml7waMAAAAJ&hl=en
+  - symbol: linkedin
+    url: https://www.linkedin.com/in/mgaebler/ 
+  - symbol: orcid
+    url: https://orcid.org/0000-0002-4442-5778
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Berlin & Leipzig
+  - line: Germany
+
+# Credits content
+credits: 'Modified <a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer</a> <br> by <a href="http://startbootstrap.com">Start Bootstrap</a>'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""

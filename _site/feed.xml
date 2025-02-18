@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2025-02-18T09:40:38+01:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+
+  
+    <subtitle>Michael Gaebler&apos;s personal research website</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Lemon</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Lemon" />
+      <published>2000-01-01T00:00:00+01:00</published>
+      <updated>2000-01-01T00:00:00+01:00</updated>
+      <id>http://localhost:4000/LEMON</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;script type=&quot;text/javascript&quot; src=&quot;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;h4 id=&quot;mind-brain-body-dataset-of-mri-eeg-cognition-emotion-and-peripheral-physiology-in-young-and-old-adults&quot;&gt;Mind-brain-body dataset of MRI, EEG, cognition, emotion, and peripheral physiology in young and old adults&lt;/h4&gt;
+
+&lt;p&gt;Publicly available dataset of 228 healthy participants comprising a young (N=154, 25.1±3.1 years, range 20–35 years, 45 female) and an elderly group (N=74, 67.6±4.7 years, range 59–77 years, 37 female) acquired cross-sectionally in Leipzig, Germany, between 2013 and 2015 to study mind-body-emotion interactions. During a two-day assessment, participants completed MRI at 3 Tesla (resting-state fMRI, quantitative T1 (MP2RAGE), T2-weighted, FLAIR, SWI/QSM, DWI) and a 62-channel EEG experiment at rest. During task-free resting-state fMRI, cardiovascular measures (blood pressure, heart rate, pulse, respiration) were continuously acquired. Anthropometrics, blood samples, and urine drug tests were obtained. Psychiatric symptoms were identified with Standardized Clinical Interview for DSM IV (SCID-I), Hamilton Depression Scale, and Borderline Symptoms List. Psychological assessment comprised 6 cognitive tests as well as 21 questionnaires related to emotional behavior, personality traits and tendencies, eating behavior, and addictive behavior. We provide information on study design, methods, and details of the data in our dataset descriptor paper.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.nature.com/articles/sdata2018308&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Link-Publisher-orange?style=flat-square#badge&quot; alt=&quot;pub&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;doc/Babayan2019_MBB.pdf&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/PDF-Manuscript-brightgreen?style=flat-square#badge&quot; alt=&quot;pdfm&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://fcon_1000.projects.nitrc.org/indi/retro/MPI_LEMON.html&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Link-Part1-1A8CD8?style=flat-square#badge&quot; alt=&quot;p1&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://openneuro.org/datasets/ds000221/versions/00002&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Link-Part2-1A8CD8?style=flat-square#badge&quot; alt=&quot;p2&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Affecttracker</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Affecttracker" />
+      <published>2000-01-01T00:00:00+01:00</published>
+      <updated>2000-01-01T00:00:00+01:00</updated>
+      <id>http://localhost:4000/AffectTracker</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;script type=&quot;text/javascript&quot; src=&quot;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;h4 id=&quot;real-time-continuous-rating-of-affective-experience-in-immersive-virtual-reality&quot;&gt;Real-time continuous rating of affective experience in immersive Virtual Reality&lt;/h4&gt;
+
+&lt;p&gt;Tool to continuously track and record moment-by-moment ratings of valence and arousal (i.e., pleasantness and intensity of feelings) in Unity. With the help of a VR input device, users indicate their affective state by positioning a cursor in the valence-arousal space of the affect grid and receive customizable real-time visual feedback.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/afourcade/AffectTracker&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Link-GitHub-black?style=flat-square#badge&quot; alt=&quot;github&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://osf.io/preprints/psyarxiv/xemwb_v1&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Link-Preprint-yellow?style=flat-square#badge&quot; alt=&quot;pre&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://bsky.app/profile/toninfrc.bsky.social/post/3ldgfkibj3s2m&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Link-Bsky-1A8CD8?style=flat-square#badge&quot; alt=&quot;bsky&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Excite O Meter</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Excite O Meter" />
+      <published>2000-01-01T00:00:00+01:00</published>
+      <updated>2000-01-01T00:00:00+01:00</updated>
+      <id>http://localhost:4000/Excite-O-Meter</id>
+      <content type="html" xml:base="http://localhost:4000/">&lt;script type=&quot;text/javascript&quot; src=&quot;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;h4 id=&quot;unity-plugin-to-include-bodily-signals-in-xr-development--evaluation&quot;&gt;Unity plugin to include bodily signals in XR development &amp;amp; evaluation&lt;/h4&gt;
+
+&lt;p&gt;User-friendly open-source Unity plugin for XR creators to integrate physiological user information in the development and evaluation of immersive content. Specifically, it allows to record, analyze, and visualize metrics, for example, of heart activity using wearables (e.g., the Polar H10 chest strap) and of movement (e.g., trajectories) from VR devices using LabStreamingLayer.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/luisqtr/exciteometer&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Link-GitHub-black?style=flat-square#badge&quot; alt=&quot;github&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://ieeexplore.ieee.org/document/9583798/&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/Link-Publisher-orange?style=flat-square#badge&quot; alt=&quot;pub&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;doc/Quintero2021_EoM.pdf&quot;&gt;&lt;img src=&quot;https://img.shields.io/badge/PDF-Manuscript-brightgreen?style=flat-square#badge&quot; alt=&quot;pdfm&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

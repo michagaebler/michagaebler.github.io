@@ -11,6 +11,18 @@
     link_bluesky: https://bsky.app/profile/toninfrc.bsky.social/post/3ldgfkibj3s2m
 
 - 
+ type: published
+    title: Active information sampling varies across the cardiac cycle.
+    authors: Kunzendorf, S., Klotzsche, F., Akbal, M., Villringer, A., Ohl, S., & Gaebler, M. 
+    year: 2019
+    journal: Psychophysiology
+    pdf_main: doc/Kunzendorf2019.pdf
+    doi_preprint: 10.1101/283838
+    doi_publisher: 10.1111/psyp.13322 
+    osf_prereg: 5z8rx
+    link_github: https://github.com/SKunzendorf/0303_INCASI
+
+- 
     type: published
     title: No cardiac phase bias for threat-related distance perception under naturalistic conditions in immersive virtual reality.
     authors: Klotzsche*, F., Motyka*, P., Molak, A., Sahula, V., Darmová, B., Byrnes, C., ... & Gaebler, M. 
@@ -22,6 +34,18 @@
     osf_prereg: a7n9b
     link_bluesky: https://bsky.app/profile/pawelmotyka.bsky.social/post/3klhhhjt47j25
     link_github: https://github.com/eioe/vrcc_analysis
+-
+
+    type: published
+    title: Decoding subjective emotional arousal from EEG during an immersive virtual reality experience.
+    authors: Hofmann*, S. M., Klotzsche*, F., Mariola*, A., Nikulin, V., Villringer, A., & Gaebler, M.
+    year: 2021
+    journal: eLife
+    pdf_main: doc/NeVRo2021.pdf
+    doi_preprint: 10.1101/2020.10.24.353722 
+    doi_publisher: 10.7554/eLife.64812
+    link_github: https://github.com/NeVRo-study/NeVRo
+
 
 -
     type: published

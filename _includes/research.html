@@ -58,9 +58,12 @@
                   {% endif %}
                   {% if entry.doi_preprint %}
                     <a href="https://doi.org/{{ entry.doi_preprint }}"><img src="https://img.shields.io/badge/Preprint-{{ site.color.secondary }}?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMTYiIHdpZHRoPSIxNiIgdmlld0JveD0iMCAwIDUxMiA1MTIiPjwhLS0hRm9udCBBd2Vzb21lIEZyZWUgNi41LjEgYnkgQGZvbnRhd2Vzb21lIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20gTGljZW5zZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tL2xpY2Vuc2UvZnJlZSBDb3B5cmlnaHQgMjAyMyBGb250aWNvbnMsIEluYy4tLT48cGF0aCBvcGFjaXR5PSIxIiBmaWxsPSIjZmVmZmZmIiBkPSJNOTYgOTZjMC0zNS4zIDI4LjctNjQgNjQtNjRINDQ4YzM1LjMgMCA2NCAyOC43IDY0IDY0VjQxNmMwIDM1LjMtMjguNyA2NC02NCA2NEg4MGMtNDQuMiAwLTgwLTM1LjgtODAtODBWMTI4YzAtMTcuNyAxNC4zLTMyIDMyLTMyczMyIDE0LjMgMzIgMzJWNDAwYzAgOC44IDcuMiAxNiAxNiAxNnMxNi03LjIgMTYtMTZWOTZ6bTY0IDI0djgwYzAgMTMuMyAxMC43IDI0IDI0IDI0SDI5NmMxMy4zIDAgMjQtMTAuNyAyNC0yNFYxMjBjMC0xMy4zLTEwLjctMjQtMjQtMjRIMTg0Yy0xMy4zIDAtMjQgMTAuNy0yNCAyNHptMjA4LThjMCA4LjggNy4yIDE2IDE2IDE2aDQ4YzguOCAwIDE2LTcuMiAxNi0xNnMtNy4yLTE2LTE2LTE2SDM4NGMtOC44IDAtMTYgNy4yLTE2IDE2em0wIDk2YzAgOC44IDcuMiAxNiAxNiAxNmg0OGM4LjggMCAxNi03LjIgMTYtMTZzLTcuMi0xNi0xNi0xNkgzODRjLTguOCAwLTE2IDcuMi0xNiAxNnpNMTYwIDMwNGMwIDguOCA3LjIgMTYgMTYgMTZINDMyYzguOCAwIDE2LTcuMiAxNi0xNnMtNy4yLTE2LTE2LTE2SDE3NmMtOC44IDAtMTYgNy4yLTE2IDE2em0wIDk2YzAgOC44IDcuMiAxNiAxNiAxNkg0MzJjOC44IDAgMTYtNy4yIDE2LTE2cy03LjItMTYtMTYtMTZIMTc2Yy04LjggMC0xNiA3LjItMTYgMTZ6Ii8+PC9zdmc+#badge" alt="Preprint" /></a>
-                    {% endif %}
+                  {% endif %}
                   {% if entry.osf_prereg %}
                     <a href="https://osf.io/{{ entry.osf_prereg }}"><img src="https://img.shields.io/badge/OSF-{{ site.color.secondary }}?style=flat-square&logo=OSF#badge" alt="Preregistration" /></a>
+                  {% endif %}
+                  {% if entry.neurovault %}
+                  <a href="https://www.neurovault.org/collections/{{ entry.neurovault }}"><img src="https://img.shields.io/badge/Neurovault-{{ site.color.secondary }}?style=flat-square&logo=neurovault#badge" alt="Neurovault" /></a>
                   {% endif %}
                   {% if entry.link_twitter %}
                     <a href="{{ entry.link_twitter }}"><img src="https://img.shields.io/badge/Twitter-{{ site.color.secondary }}?style=flat-square&logo=twitter#badge" alt="Twitter thread" /></a>

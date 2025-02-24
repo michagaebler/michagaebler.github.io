@@ -59,3 +59,44 @@
     link_bluesky: https://bsky.app/profile/toninfrc.bsky.social/post/3kiozy523mc2h
     link_github: https://github.com/afourcade/evrbhi
 
+
+-
+    type: published
+    title: Salivary cortisone, as a biomarker for psychosocial stress, is associated with state anxiety and heart rate.
+    authors: Bae*, Y. J., Reinelt*, J., Netto, J., Uhlig, M., Willenberg, A., Ceglarek, U., ... Gaebler*, M., & Kratzsch*, J.
+    year: 2019
+    journal: Psychoneuroendocrinology
+    pdf_main: doc/Bae2019
+    doi_publisher: 10.1016/j.psyneuen.2018.10.015
+
+-
+    type: published
+    title: Acute psychosocial stress alters thalamic network centrality
+    authors: Reinelt*, J., Uhlig*, M., Müller, K., Lauckner, M. E., Kumral, D., Schaare, H. L., ... & Gaebler, M.
+    year: 2019
+    journal: NeuroImage
+    pdf_main: doc/Reinelt2019.pdf
+    doi_preprint: 10.1101/2024.01.04.574165
+    doi_publisher: 10.1016/j.neuroimage.2019.06.005
+
+-
+    type: published
+    title: Rapid volumetric brain changes after acute psychosocial stress
+    authors: Uhlig, M., Reinelt, J. D., Lauckner, M. E., Kumral, D., Schaare, H. L., Mildner, T., ... & Gaebler, M.
+    year: 2023
+    journal: NeuroImage
+    pdf_main: Uhlig2023.pdf
+    doi_preprint: 10.1101/2021.12.01.470604 
+    doi_publisher: 10.1016/j.neuroimage.2022.119760
+    neurovault: SFQXOIUB
+    link_github: https://gitlab.gwdg.de/necos/vbm.git
+
+-
+    type: published
+    title: The age-dependent relationship between resting heart rate variability and functional brain connectivity
+    authors: Kumral, D., Schaare, H. L., Beyer, F., Reinelt, J., Uhlig, M., Liem, F., ...,  & Gaebler, M.
+    year: 2019
+    journal: NeuroImage
+    pdf_main: doc/Kumral2019.pdf
+    doi_preprint: 10.1101/360909 
+    doi_publisher: 10.1016/j.neuroimage.2018.10.027

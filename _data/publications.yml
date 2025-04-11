@@ -16,7 +16,7 @@
     authors: Kunzendorf, S., Klotzsche, F., Akbal, M., Villringer, A., Ohl, S., & Gaebler, M. 
     year: 2019
     journal: Psychophysiology
-    pdf_main: doc/Kunzendorf2019.pdf
+    pdf_main: Kunzendorf2019.pdf
     doi_preprint: 10.1101/283838
     doi_publisher: 10.1111/psyp.13322 
     osf_prereg: 5z8rx
@@ -28,7 +28,7 @@
     authors: Klotzsche*, F., Motyka*, P., Molak, A., Sahula, V., Darmová, B., Byrnes, C., ... & Gaebler, M. 
     year: 2024
     journal: Royal Society Open Science
-    pdf_main: doc/Klotzsche2024_VRCC.pdf
+    pdf_main: Klotzsche2024_VRCC.pdf
     doi_preprint: 10.1101/2024.01.31.578172v2
     doi_publisher: 10.1098/rsos.241072
     osf_prereg: a7n9b
@@ -41,7 +41,7 @@
     authors: Hofmann*, S. M., Klotzsche*, F., Mariola*, A., Nikulin, V., Villringer, A., & Gaebler, M.
     year: 2021
     journal: eLife
-    pdf_main: doc/NeVRo2021.pdf
+    pdf_main: NeVRo2021.pdf
     doi_preprint: 10.1101/2020.10.24.353722 
     doi_publisher: 10.7554/eLife.64812
     link_github: https://github.com/NeVRo-study/NeVRo
@@ -53,7 +53,7 @@
     authors: Fourcade, A., Klotzsche, F., Hofmann, S. M., Mariola, A., Nikulin, V. V., Villringer, A., & Gaebler, M.
     year: 2024
     journal: Psychophysiology
-    pdf_main: doc/Fourcade2024_NeVRo2.pdf
+    pdf_main: Fourcade2024_NeVRo2.pdf
     doi_preprint: 10.1101/2024.01.04.574165
     doi_publisher: 10.1111/psyp.14696
     link_bluesky: https://bsky.app/profile/toninfrc.bsky.social/post/3kiozy523mc2h
@@ -66,7 +66,7 @@
     authors: Bae*, Y. J., Reinelt*, J., Netto, J., Uhlig, M., Willenberg, A., Ceglarek, U., ... Gaebler*, M., & Kratzsch*, J.
     year: 2019
     journal: Psychoneuroendocrinology
-    pdf_main: doc/Bae2019
+    pdf_main: Bae2019.pdf
     doi_publisher: 10.1016/j.psyneuen.2018.10.015
 
 -
@@ -75,7 +75,7 @@
     authors: Reinelt*, J., Uhlig*, M., Müller, K., Lauckner, M. E., Kumral, D., Schaare, H. L., ... & Gaebler, M.
     year: 2019
     journal: NeuroImage
-    pdf_main: doc/Reinelt2019.pdf
+    pdf_main: Reinelt2019.pdf
     doi_preprint: 10.1101/2024.01.04.574165
     doi_publisher: 10.1016/j.neuroimage.2019.06.005
 
@@ -97,6 +97,6 @@
     authors: Kumral, D., Schaare, H. L., Beyer, F., Reinelt, J., Uhlig, M., Liem, F., ...,  & Gaebler, M.
     year: 2019
     journal: NeuroImage
-    pdf_main: doc/Kumral2019.pdf
+    pdf_main: Kumral2019.pdf
     doi_preprint: 10.1101/360909 
     doi_publisher: 10.1016/j.neuroimage.2018.10.027

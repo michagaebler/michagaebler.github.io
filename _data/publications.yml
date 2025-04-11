@@ -100,3 +100,13 @@
     pdf_main: Kumral2019.pdf
     doi_preprint: 10.1101/360909 
     doi_publisher: 10.1016/j.neuroimage.2018.10.027
+
+    -
+    type: published
+    title: Stereoscopic depth increases intersubject correlations of brain networks
+    authors: Gaebler, M., Biessmann, F., Lamke, J.-P., Müller, K.-R., Walter, H., & Hetzer, S.
+    year: 2014
+    journal: NeuroImage
+    pdf_main: Gaebler2014.pdf
+    doi_publisher: 10.1016/j.neuroimage.2014.06.008
+

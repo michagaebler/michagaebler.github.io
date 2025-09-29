@@ -1,12 +1,23 @@
 ---
+
+
 -
-    type: preprint
+    type: published
+    title: Brain–body states as a link between cardiovascular and mental health.
+    authors: Villringer, A., Nikulin, V.V. & Gaebler, M. 
+    year: 2025
+    journal: Trends in Neurosciences
+    pdf_main: Villringer2025_TINS.pdf
+    doi_publisher: 10.1016/j.tins.2025.08.004 
+-
+    type: published
     title: AffectTracker - real-time continuous rating of affective experience in immersive Virtual Reality.
     authors: Fourcade, A., Malandrone, F., Roellecke, L., Ciston, A., de Mooij, J., Villringer, A., Carletto*, S. & Gaebler*, M. 
-    year: 2024
-    journal: PsyArXiv
+    year: 2025
+    journal: Frontiers in Virtual Reality
     pdf_main: AffectTracker_psyarxiv.pdf
     doi_preprint: 10.31234/osf.io/xemwb 
+    doi_publisher: 10.3389/frvir.2025.1567854
     link_github: https://github.com/afourcade/AffectTracker
     link_bluesky: https://bsky.app/profile/toninfrc.bsky.social/post/3ldgfkibj3s2m
 

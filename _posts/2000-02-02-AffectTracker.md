@@ -24,5 +24,6 @@ Tool to continuously track and record moment-by-moment ratings of valence and ar
 
 [![github][git]](https://github.com/afourcade/AffectTracker)
 [![pre][pre]](https://osf.io/preprints/psyarxiv/xemwb_v1)
+[![pub][pub]](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2025.1567854/full)
 [![bsky][bsky]](https://bsky.app/profile/toninfrc.bsky.social/post/3ldgfkibj3s2m)
 

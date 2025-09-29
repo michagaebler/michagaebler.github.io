@@ -1,10 +1,14 @@
 ---
-
+    type: preprint
+    title: EEG decodability of facial expressions and their stereoscopic depth cues in immersive virtual reality
+    authors: Klotzsche, F., Nasim, A., Hofmann, S. M., Villringer, A., Nikulin, V., Sommer, W., & Gaebler, M.  
+    year: 2025
+    doi_preprint: 10.1101/2025.08.18.670974 
 
 -
     type: published
     title: Brain–body states as a link between cardiovascular and mental health.
-    authors: Villringer, A., Nikulin, V.V. & Gaebler, M. 
+    authors: Villringer, A., Nikulin, V. V. & Gaebler, M. 
     year: 2025
     journal: Trends in Neurosciences
     pdf_main: Villringer2025_TINS.pdf
